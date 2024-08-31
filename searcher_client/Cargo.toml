@@ -10,7 +10,7 @@ jito-protos = { path = "../jito_protos" }
 log = "0.4"
 prost-types = "0.12"
 solana-client = "=2.0.7"
-solana-metrics = "=1.17.20"
+solana-metrics = "=2.0.7"
 solana-sdk = "=2.0.7"
 solana-transaction-status = "=2.0.7"
 thiserror = "1.0.40"
