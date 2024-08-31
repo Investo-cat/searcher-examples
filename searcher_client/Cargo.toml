@@ -9,7 +9,7 @@ futures-util = "0.3.28"
 jito-protos = { path = "../jito_protos" }
 log = "0.4"
 prost-types = "0.12"
-solana-client = "=2.0.7"
+solana-client = "=2.0.8"
 solana-metrics = "=2.0.8"
 solana-sdk = "=2.0.7"
 solana-transaction-status = "=2.0.7"
